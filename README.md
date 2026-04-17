@@ -1,25 +1,23 @@
 # MeLL Cognitive Architecture
 
-**Enterprise-grade Cognitive Intelligence Architecture designed for critical and regulated environments, where AI must operate with governance, traceability, and human sovereignty by design.**
+**Enterprise-grade cognitive intelligence architecture for critical and regulated environments, where AI must operate with governance, traceability, and human sovereignty by design.**
 
-MeLL Cognitive Architecture designs and evolves structured AI architectures for corporate and industrial environments where **compliance, safety, operational reliability and human sovereignty** must be preserved from the start.
+MeLL Cognitive Architecture designs and evolves structured AI architectures for corporate and industrial environments where **compliance, safety, operational reliability, and human sovereignty** must be preserved from the start.
 
-We build governed frameworks, platforms and technical assets designed to support organizations operating in **critical, regulated and high-impact contexts**.
-
-**Governed AI architectures for environments where trust, traceability and human control are non-negotiable.**
+We build governed frameworks, platforms, and technical assets designed to support organizations operating in **critical, regulated, and high-impact contexts**.
 
 ---
 
 ## About
 
-MeLL Cognitive Architecture is the institutional and architectural layer behind governed AI initiatives designed for enterprise and industrial environments where reliability, compliance and traceability are mandatory.
+MeLL Cognitive Architecture is the institutional and architectural layer behind governed AI initiatives designed for enterprise and industrial environments where reliability, compliance, and traceability are mandatory.
 
 Our work is centered on the principle that:
 
 - AI must be **governed**, not improvised
 - critical decisions must remain **human-supervised**
 - operational intelligence must be **traceable and auditable**
-- governance cannot be a black box in environments where failure means downtime, financial loss or safety risk
+- governance cannot be a black box in environments where failure means downtime, financial loss, or safety risk
 
 ---
 
@@ -29,7 +27,7 @@ Our work is centered on the principle that:
 - Federated Multi-Agent Systems
 - Human-in-the-Loop / Supervised Autonomy
 - Industrial AI for Critical Operations
-- Traceability, Auditability and Evidence Frameworks
+- Traceability, Auditability, and Evidence Frameworks
 - Multicloud and Hybrid Architectures
 - Operational Reliability and Cognitive Safety
 - Constitutional Governance for AI Systems
@@ -39,7 +37,7 @@ Our work is centered on the principle that:
 ## Featured Initiatives
 
 ### ERSC-Core  
-*Industrial AI governance platform for critical operations*
+*Primary industrial AI governance platform*
 
 A federated multi-agent governance platform designed for industrial and regulated environments, enabling AI adoption with:
 
@@ -51,7 +49,7 @@ A federated multi-agent governance platform designed for industrial and regulate
 - governed multicloud architecture
 
 ### CIA-Tec™  
-*Governance architecture for structured, auditable and supervised intelligence systems*
+*Governance architecture for structured, auditable, and supervised intelligence systems*
 
 A governed architectural ecosystem focused on:
 
@@ -114,7 +112,7 @@ This GitHub organization is intended to serve as a structured technical showcase
 - controlled public artifacts for trust-building
 
 Public repositories may contain selected and controlled materials only.  
-Sensitive, private or strategic operational artifacts remain protected.
+Sensitive, private, or strategic operational artifacts remain protected.
 
 ---
 
@@ -141,8 +139,9 @@ Less operational risk. More human-supervised AI.
 
 ## Founder
 
-**Luiz Carlos Rezende da Silva**  
-Industrial Electrical Maintenance, Diagnostics, Reliability and AI Governance Architecture
+**Founder and Chief Architect**  
+Luiz Carlos Rezende da Silva  
+Industrial Electrical Maintenance, Diagnostics, Reliability, and AI Governance Architecture
 
 ---
 
@@ -156,6 +155,6 @@ Industrial Electrical Maintenance, Diagnostics, Reliability and AI Governance Ar
 
 ## Note
 
-This organization presents selected technical materials, conceptual structures and evolving architectural assets.
+This organization presents selected technical materials, conceptual structures, and evolving architectural assets.
 
 It should be interpreted as a **governed and curated technical ecosystem**, not merely as a collection of code repositories.
