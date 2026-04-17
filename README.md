@@ -1,12 +1,12 @@
 # MeLL Cognitive Architecture
 
-Arquitetura de Inteligência Cognitiva de nível empresarial, projetada para ambientes críticos e regulados, onde a IA deve operar com governança, rastreabilidade e soberania humana por design.
-
-**Governed AI architectures for environments where trust, traceability and human control are non-negotiable.**
+**Enterprise-grade Cognitive Intelligence Architecture designed for critical and regulated environments, where AI must operate with governance, traceability, and human sovereignty by design.**
 
 MeLL Cognitive Architecture designs and evolves structured AI architectures for corporate and industrial environments where **compliance, safety, operational reliability and human sovereignty** must be preserved from the start.
 
 We build governed frameworks, platforms and technical assets designed to support organizations operating in **critical, regulated and high-impact contexts**.
+
+**Governed AI architectures for environments where trust, traceability and human control are non-negotiable.**
 
 ---
 
