@@ -137,11 +137,25 @@ Less operational risk. More human-supervised AI.
 
 ---
 
+## Estágio Atual
+
+**A MeLL Cognitive Architecture encontra-se em fase de estruturação institucional, consolidação arquitetural e evolução de PoCs para MVPs.**
+
+- As iniciativas atuais incluem:
+- *Consolidação da arquitetura CIA-Tec™ v4.7*
+- *Evolução controlada para baseline v5.0*
+- *Desenvolvimento de plataformas como ERSC Core e SovereignGuard*
+- *Estruturação da futura organização MeLL Cognitive Architecture LTDA*
+- *Consolidação de portfólio cloud em Azure e Google Cloud*
+- *Organização de frameworks, ontologias e taxonomias proprietárias*
+  
+---
+
 ## Founder
 
 **Founder and Chief Architect**  
-Luiz Carlos Rezende da Silva  
-Industrial Electrical Maintenance, Diagnostics, Reliability, and AI Governance Architecture
+ Luiz Carlos Rezende da Silva  
+ Electrotechnical Technician | Industrial Maintenance Electrician | Automation and IoT 4.0 | Solutions Architecture | Corporate AI Governance | Reliability
 
 ---
 
