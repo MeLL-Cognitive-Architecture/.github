@@ -137,17 +137,17 @@ Less operational risk. More human-supervised AI.
 
 ---
 
-## Estágio Atual
+## Current Stage
 
-**A MeLL Cognitive Architecture encontra-se em fase de estruturação institucional, consolidação arquitetural e evolução de PoCs para MVPs.**
+**The MeLL Cognitive Architecture is in the phase of institutional structuring, architectural consolidation, and evolution of PoCs into MVPs.**
 
-- As iniciativas atuais incluem:
-- *Consolidação da arquitetura CIA-Tec™ v4.7*
-- *Evolução controlada para baseline v5.0*
-- *Desenvolvimento de plataformas como ERSC Core e SovereignGuard*
-- *Estruturação da futura organização MeLL Cognitive Architecture LTDA*
-- *Consolidação de portfólio cloud em Azure e Google Cloud*
-- *Organização de frameworks, ontologias e taxonomias proprietárias*
+- Current initiatives include:
+- *Consolidation of the CIA-Tec™ v4.7 architecture*
+- *Controlled evolution to baseline v5.0*
+- *Development of platforms such as ERSC Core and SovereignGuard*
+- *Structuring the future organization MeLL Cognitive Architecture LTDA*
+- *Consolidation of cloud portfolio in Azure and Google Cloud*
+- *Organization of proprietary frameworks, ontologies, and taxonomies*
   
 ---
 
