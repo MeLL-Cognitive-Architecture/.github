@@ -36,7 +36,7 @@ Our work is centered on the principle that:
 
 ## Featured Initiatives
 
-### ERSC-Core  
+### ERSC-Core → Industrial AI Solution  
 *Primary industrial AI governance platform*
 
 A federated multi-agent governance platform designed for industrial and regulated environments, enabling AI adoption with:
@@ -48,7 +48,7 @@ A federated multi-agent governance platform designed for industrial and regulate
 - risk-aware recommendations
 - governed multicloud architecture
 
-### CIA-Tec™  
+### CIA-Tec™ — Cognitive Intelligence Architecture – Technology
 *Governance architecture for structured, auditable, and supervised intelligence systems*
 
 A governed architectural ecosystem focused on:
